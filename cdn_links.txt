@@ -1,0 +1,21 @@
+# COMPANION ASSETS (1 uploaded ONCE per repo at relative paths, NOT multiplied):
+[cdn_links_direct_pack-we0ki] generate_all_links.py -> https://cdn.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/generate_all_links.py
+
+==================================================
+
+# MULTIPLIED LINKS (15 total across 1 sites via standard):
+https://cdn.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0001/cdn_links_direct_pack.txt
+https://fastly.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0001/cdn_links_direct_pack.txt
+https://gcore.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0001/cdn_links_direct_pack.txt
+https://testingcf.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0001/cdn_links_direct_pack.txt
+https://cdn.statically.io/gh/M2bD/cdn_links_direct_pack-we0ki/main/v0001/cdn_links_direct_pack.txt
+https://rawcdn.githack.com/M2bD/cdn_links_direct_pack-we0ki/main/v0001/cdn_links_direct_pack.txt
+https://raw.githack.com/M2bD/cdn_links_direct_pack-we0ki/main/v0001/cdn_links_direct_pack.txt
+https://raw.githubusercontent.com/M2bD/cdn_links_direct_pack-we0ki/main/v0001/cdn_links_direct_pack.txt
+https://esm.sh/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0001/cdn_links_direct_pack.txt
+https://raw.esm.sh/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0001/cdn_links_direct_pack.txt
+https://cdn.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0002/cdn_links_direct_pack.txt
+https://fastly.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0002/cdn_links_direct_pack.txt
+https://gcore.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0002/cdn_links_direct_pack.txt
+https://testingcf.jsdelivr.net/gh/M2bD/cdn_links_direct_pack-we0ki@main/v0002/cdn_links_direct_pack.txt
+https://cdn.statically.io/gh/M2bD/cdn_links_direct_pack-we0ki/main/v0002/cdn_links_direct_pack.txt
